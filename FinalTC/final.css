@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+*/
+
+
+
+
+html { 
+	background-color:#000
+	
+	border-radius: 26px;
+
+
+}
+
+body {
+	width: 761px;
+	margin: 1.5em auto; 
+	border-color: ;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	background-color:#000;
+	background:#000; /* Old browsers */
+
+	background: -moz-linear-gradient; /* FF3.6+ */
+
+	background: -webkit-gradient; /* Chrome,Safari4+ */
+
+	background: -webkit-linear-gradient; /* Chrome10+,Safari5.1+ */
+
+
+	filter: progid:DXImageTransform.Microsoft.gradient; /* IE6-9 */
+
+
+	border-radius: 26px;
+}
+
+h1 {
+	text-align: right;
+	background-color:;
+	color: ;
+	border-radius: 26px;
+}
+
+h2 {
+	padding: 7px;
+	color: ;
+	background-color: ;
+	border-style:none;
+	border-radius:26px;
+}
+
+h3 {
+	color:;
+	
+}
+h4 {
+	text-align: left;
+	display:center;
+	font-family: 'Playfair Display', ultra-bold;
+	color:#FFF;
+}
+
+
+
+
+
+/* links */
+a {
+  font-weight: bold;
+  color: #555;
+  text-decoration:none;
+ 
+}
+
+a:hover {
+	font-weight:bold;
+	
+	color: ;
+	text-decoration:underline;
+	background-color:#FFF;
+	
+	
+}
+
+a:visited { 
+	color: #DDD;
+	
+}
+#nav{
+	list-style: none;
+	
+	text-align:;
+	padding: 5px;
+	background-color:;
+	border-style:none; 
+	border-radius: ;
+	font-family:font-family: 'Playfair Display', serif;
+	
+}
+
+#nav li{
+	display:inline;
+	
+	width:150;
+		
+}
+#nav a {
+	
+	padding-right: 50px;
+	padding-left: 50px;
+	border-left: 2px double;
+	
+}
+#firstnav a {
+	border-left: none;
+}
+
+#footer {
+	border-color:;
+	border-style:;
+	border-width: ;
+	background-color:;
+	padding-down: 50px;
+	border-radius:;
+	color:white;
+}
+
+.floated_img
+{
+    float: left;
+}
+	
+	
+	
